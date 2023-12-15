@@ -1,0 +1,5 @@
+# Ignorando venv
+venv/*
+# ignorando aquivos
+*.pyc
+.vscode/*
